@@ -17,6 +17,9 @@ Some IPython notebooks with Pandas DataFrame time series
 
 ## ToDo
 
+- seaborn
+    - http://stanford.edu/~mwaskom/software/seaborn/
+
 - bokeh
 	- http://bokeh.pydata.org/
 
