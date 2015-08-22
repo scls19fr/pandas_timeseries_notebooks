@@ -7,3 +7,9 @@ Some IPython notebooks with Pandas DataFrame time series
 
 - [pandas-highcharts sample](http://nbviewer.ipython.org/github/scls19fr/pandas_timeseries_notebooks_samples/blob/master/pandas-highcharts.ipynb)
 
+
+## ToDo
+- plotly
+
+- bokeh
+
